@@ -24,7 +24,7 @@ This is a Demo video
 
 You can see CRUD routes working in the top link of postman.
 
-[Crud route and postman example image](./images/postman.jpg)
+[Screenshot](./images/postman.jpg)
 
 
 ## License
